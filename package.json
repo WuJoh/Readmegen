@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/WuJoh/readmegen/issues"
   },
-  "homepage": "https://github.com/WuJoh/readmegen#readme"
+  "homepage": "https://github.com/WuJoh/readmegen#readme",
+  "devDependencies": {}
 }
